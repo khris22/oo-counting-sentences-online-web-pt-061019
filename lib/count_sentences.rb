@@ -21,4 +21,3 @@ class String
   end
 
 end
-  
